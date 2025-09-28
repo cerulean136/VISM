@@ -1,6 +1,6 @@
-# VAM
+# VISM
 
-***VAM: An Edge, Edge-direction and Semantic-mask Guided Vectorize Anything Model for Remote Sensing Imagery Segmentation***
+***VISM: A Vectorized Instance-wise Semantic Segmentation Model for Remote Sensing Imagery***
 
 
 We will release our code after the paper is accepted.
